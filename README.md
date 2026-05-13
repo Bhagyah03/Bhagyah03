@@ -1,8 +1,9 @@
 ## Hi there 👋
 
+
 HI I`m Bhagyah03
 
-hi i`m balaji
+hi i`m manasa
 <!--
 **Bhagyah03/Bhagyah03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
