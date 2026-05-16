@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hi there
 Here's your animated dashboard-style resume! Here's everything that's in it:
 
 **Animations:**
